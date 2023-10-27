@@ -1,0 +1,16 @@
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\bin\Debug\ProyectoGrupo.exe.config
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\bin\Debug\ProyectoGrupo.exe
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\bin\Debug\ProyectoGrupo.pdb
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\bin\Debug\CircularProgressBar.dll
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\bin\Debug\WinFormAnimation.dll
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\bin\Debug\CircularProgressBar.xml
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\obj\Debug\ProyectoGrupo.csproj.AssemblyReference.cache
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\obj\Debug\UI.WinForm.Acceso.resources
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\obj\Debug\SimplexMethod.MainScreen.resources
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\obj\Debug\ProyectoGrupo.Properties.Resources.resources
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\obj\Debug\UI.WinForm.Bienvenido.resources
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\obj\Debug\ProyectoGrupo.csproj.GenerateResource.cache
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\obj\Debug\ProyectoGrupo.csproj.CoreCompileInputs.cache
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\obj\Debug\ProyectoGrupo.csproj.CopyComplete
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\obj\Debug\ProyectoGrupo.exe
+C:\Users\falla\source\repos\ProyectoGrupo\ProyectoGrupo\obj\Debug\ProyectoGrupo.pdb
