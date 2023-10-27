@@ -124,7 +124,7 @@ namespace SimplexMethod
             {
                 case SimplexResult.Found:
                     string extrStr = isExtrMax ? "max" : "min";
-                    resultsLbl.Text = "Se encontró una solución óptima: " + extrStr + $" = {-1 * (result.Item1.Last().fValue)}";
+                    resultsLbl.Text = "Se encontró una solución óptima: " + extrStr + $" = {(result.Item1.Last().fValue)}";
                     break;
                 case SimplexResult.Unbounded:
                     resultsLbl.Text = "El dominio de las soluciones admisibles es ilimitado.";
